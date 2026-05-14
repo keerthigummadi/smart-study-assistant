@@ -5,7 +5,7 @@ AI-powered Quiz and Flashcard Generator
 ## Team Members
 - Keerthi Gummadi
 - dharani kothakapu
-- harika k
+- Harika K
 
 ## Project Description
 Smart Study Assistant is an AI-powered learning tool that converts study material into quizzes and flashcards for better revision and active recall.
