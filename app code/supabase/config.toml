@@ -1,0 +1,10 @@
+project_id = "rlxcahgbbrqbwflfbnho"
+
+[functions.generate-study]
+verify_jwt = false
+
+[functions.tutor-chat]
+verify_jwt = false
+
+[functions.study-plan]
+verify_jwt = false
